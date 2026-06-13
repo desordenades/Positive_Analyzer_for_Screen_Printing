@@ -1,5 +1,7 @@
 # Screen Printing Film Analyzer
 
+(I'll add some test files in the following days)
+
 Automated computer vision tool for screen printing workshops. This script analyzes PDF films to ensure 100% opacity and verifies structural line thicknesses for **43T (110T US)** and **55T (140T US)** screen meshes before exposure.
 
 It has been tested in a real workshop and adjusted with real designs. We work entirely with **water-based inks** and print **manually**, which requires strict tolerances for line thickness to prevent the emulsion from washing out during screen exposure.
