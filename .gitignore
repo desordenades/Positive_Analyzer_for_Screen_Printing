@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- Screen Printing Workshop Custom Rules ---
+# Ignore generated TIFF analysis output files to keep the repo clean
+*_ANALYZED.tif
+
+# Ignore the text summary report generated automatically after each run
+film_analysis_summary.txt
+
+# Ignore input PDF films to prevent hosting client designs or heavy files
+*.pdf
